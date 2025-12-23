@@ -10,6 +10,10 @@ This is a Python-based voice assistant project using speech recognition and text
 ## Requirements
 - Python 3.x
 - Microphone
+-SpeechRecognition
+-pyttsx3
+-pyaudio
+
 
 ## Install Dependencies
 pip install -r requirements.txt
